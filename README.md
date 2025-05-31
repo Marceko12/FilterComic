@@ -8,7 +8,6 @@ Este proyecto aplica un efecto de **cómic o caricatura** a imágenes utilizando
 |-----------------|--------------------------|
 | ![original](original.png) | ![comic](comic.png) |
 
-> *Reemplaza las rutas anteriores con tus propias imágenes para mostrar ejemplos reales.*
 
 ---
 
