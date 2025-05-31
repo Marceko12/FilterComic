@@ -24,5 +24,5 @@ Este proyecto aplica un efecto de **cómic o caricatura** a imágenes utilizando
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/filtro-comic-python.git
-   cd filtro-comic-python
+   https://github.com/Marceko12/FilterComic.git
+   cd FilterComic
